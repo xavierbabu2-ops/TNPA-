@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Circular Background Dark Green -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M50,0 C22.38,0 0,22.38 0,50 C0,77.62 22.38,100 50,100 C77.62,100 100,77.62 100,50 C100,22.38 77.62,0 50,0 Z" />
+    <!-- Bright Gold Rim -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M50,3 C24.04,3 3,24.04 3,50 C3,75.96 24.04,97 50,97 C75.96,97 97,75.96 97,50 C97,24.04 75.96,3 50,3 Z M50,7 C73.75,7 93,26.25 93,50 C93,73.75 73.75,93 50,93 C26.25,93 7,73.75 7,50 C7,26.25 26.25,7 50,7 Z" />
+    <!-- Head silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,22 C41.16,22 34,29.16 34,38 C34,46.84 41.16,54 50,54 C58.84,54 66,46.84 66,38 C66,29.16 58.84,22 50,22 Z" />
+    <!-- Shoulders & Suit -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,58 C32.33,58 18,72.33 18,90 L82,90 C82,72.33 67.67,58 50,58 Z" />
+    <!-- Treasurer Green Shawl / Ribbon -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M25,82 C30,72 40,66 50,66 C60,66 70,72 75,82 L68,88 C63,80 56,76 50,76 C44,76 37,80 32,88 Z" />
+</vector>

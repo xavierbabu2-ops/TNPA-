@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="80dp"
+    android:viewportWidth="120"
+    android:viewportHeight="80">
+    <!-- Top Red Stripe -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M0,0 L120,0 L120,26.66 L0,26.66 Z" />
+    <!-- Middle White Stripe -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,26.66 L120,26.66 L120,53.33 L0,53.33 Z" />
+    <!-- Bottom Gold Stripe -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M0,53.33 L120,53.33 L120,80 L0,80 Z" />
+    <!-- Outer Gold Border -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M0,0 L120,0 L120,3 L0,3 Z M0,77 L120,77 L120,80 L0,80 Z M0,0 L3,0 L3,80 L0,80 Z M117,0 L120,0 L120,80 L117,80 Z" />
+    <!-- Center Emblem Circle -->
+    <path
+        android:fillColor="#8B0000"
+        android:pathData="M60,40m-14,0a14,14 0 1,0 28,0a14,14 0 1,0 -28,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,40m-12,0a12,12 0 1,0 24,0a12,12 0 1,0 -24,0" />
+    <!-- Center Paintbrush & Palette Icon -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M54,42 C54,38 57,35 61,35 C65,35 68,38 68,42 C68,45 65,47 61,47 C57,47 54,45 54,42 Z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M62,33 L67,28 C68,27 69,28 68,29 L64,35 Z" />
+</vector>

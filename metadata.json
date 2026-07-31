@@ -1,0 +1,6 @@
+{
+  "name": "TNPA² - Tamil Nadu Painters & Artists Union",
+  "description": "Official TNPA² Union App: Xavier Babu AI 24x7 Assistant, Digital Member ID, Registration, District Leaders, Labor Laws & Welfare Schemes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
